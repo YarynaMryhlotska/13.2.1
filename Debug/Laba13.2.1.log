@@ -1,0 +1,4 @@
+﻿  13.2.1.cpp
+C:\Users\marki\Desktop\ап\Yaryna visual studio\555555555555555555555555555555555555555\Laba13.2.1\13.2.1.cpp(15,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\marki\Desktop\ап\Yaryna visual studio\555555555555555555555555555555555555555\Laba13.2.1\13.2.1.cpp(20,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Laba13.2.1.vcxproj -> C:\Users\marki\Desktop\ап\Yaryna visual studio\555555555555555555555555555555555555555\Laba13.2.1\Debug\Laba13.2.1.exe
