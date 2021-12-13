@@ -1,0 +1,4 @@
+﻿  13.2.1.cpp
+C:\Users\marki\source\repos\13.2.1\13.2.1.cpp(15,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\marki\source\repos\13.2.1\13.2.1.cpp(20,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  13.2.1.vcxproj -> C:\Users\marki\source\repos\13.2.1\Debug\13.2.1.exe
